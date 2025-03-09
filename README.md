@@ -24,3 +24,7 @@
   - Bar chart of ESG scores by loan ID with risk labels.
   - Table summarizing loan details (ID, industry, location, asset type, ESG score, risk label).
 - **Metrics**: Displays the portfolio-weighted ESG score as an annotation.
+
+## Screenshots
+![output](output.png)
+
